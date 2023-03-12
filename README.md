@@ -1,2 +1,10 @@
-# dark-wood-stranger
-An action-adventure quest game with RPG elements. Are you ready to dive into the world of Darkwood and get out alive?
+# DarkWood Stranger
+Готовы ли вы погрузиться в опасный мир Темнолесья и остаться в живых?
+
+❯ **Название:** DarkWood Stranger.
+❯ **Жанр:** приключенческая игра-квест с элементами RPG.
+❯ **Сеттинг:** мир Темнолесья. 
+
+
+❯ **Вдохновляющие игры:** D&D, AI Dungeon, Life is Adventure.
+❯ **Языки программирования:** Python (Windows)
